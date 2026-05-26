@@ -1,4 +1,4 @@
-# AI Classification Project
+# AI Classification Project 2
 
 ## 🎯 Objective
 Build a simple machine learning model for classification using Iris dataset.
